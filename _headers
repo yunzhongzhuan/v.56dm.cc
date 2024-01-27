@@ -1,4 +1,10 @@
 # This is a comment
+/*
+  Origin-Agent-Cluster: ?0
+  Cache-Control: no-cache
+  X-Frame-Options: SAMEORIGIN
+  Content-Security-Policy: frame-ancestors *.56dm.cc
+  Strict-Transport-Security: max-age=0; includeSubDomains
 /img/defaukt_user_profile_picture_1.png
   Cache-Control: max-age=31536000
 /img/upload_file_full_screen.png
@@ -8,6 +14,10 @@
 /img/qq-profile-picture-default.png
   Cache-Control: max-age=31536000
 /img/logo.png
+  Cache-Control: max-age=31536000
+/404
+  Cache-Control: max-age=31536000
+/404.html
   Cache-Control: max-age=31536000
 /img/telecomspeed.png
   Cache-Control: max-age=31536000
@@ -71,9 +81,3 @@
   Access-Control-Allow-Credentials: true
   Access-Control-Allow-Methods: OPTIONS,GET,POST
   Access-Control-Allow-Origin: https://v.56dm.cc
-/*
-  Strict-Transport-Security: max-age=0; includeSubDomains
-  QQ: 1070892255/1070892573
-  WeChat: qq1070892255
-  E-Mail: admin@yunzhongzhuan.com/yantudefengjing@qq.com
-  Telephone: 4006888902
